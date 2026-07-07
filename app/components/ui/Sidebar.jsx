@@ -5,7 +5,7 @@ export default function Sidebar() {
         Start Bootstrap
       </div>
 
-      <nav className="flex-1 px-4 py-4 space-y-1">
+      <nav className="flex-1 px-4 py-4">
         <p className="text-xs text-gray-400 uppercase px-2 mb-2">Core</p>
         <a href="#" className="block px-3 py-2 rounded bg-white/10 text-white">
           Dashboard
