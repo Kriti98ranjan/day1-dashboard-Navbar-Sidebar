@@ -7,7 +7,7 @@ export default function Sidebar() {
 
       <nav className="flex-1 px-4 py-4">
         <p className="text-xs text-gray-400 uppercase px-2 mb-2">Core</p>
-        <a href="#" className="block px-3 py-2 rounded bg-white/10 text-white">
+        <a href="#" className="block px-3 py-2 rounded bg-gray-600 text-white">
           Dashboard
         </a>
 
@@ -16,13 +16,13 @@ export default function Sidebar() {
         </p>
         <a
           href="#"
-          className="block px-3 py-2 rounded hover:bg-white/10 text-gray-300"
+          className="block px-3 py-2 rounded hover:bg-gray-600 text-gray-300"
         >
           Layouts
         </a>
         <a
           href="#"
-          className="block px-3 py-2 rounded hover:bg-white/10 text-gray-300"
+          className="block px-3 py-2 rounded hover:bg-gray-600 text-gray-300"
         >
           Pages
         </a>
@@ -30,13 +30,13 @@ export default function Sidebar() {
         <p className="text-xs text-gray-400 uppercase px-2 mt-4 mb-2">Addons</p>
         <a
           href="#"
-          className="block px-3 py-2 rounded hover:bg-white/10 text-gray-300"
+          className="block px-3 py-2 rounded hover:bg-gray-600 text-gray-300"
         >
           Charts
         </a>
         <a
           href="#"
-          className="block px-3 py-2 rounded hover:bg-white/10 text-gray-300"
+          className="block px-3 py-2 rounded hover:bg-gray-600 text-gray-300"
         >
           Tables
         </a>
